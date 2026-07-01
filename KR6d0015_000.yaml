@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0015/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華文句記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T34/T34n1719.xml
+    old_id: T34n1719
+hash: sha256:3ec5aa00f696dd544152936c802bd67562f6433d808243794a38ba1b871ff3cc
